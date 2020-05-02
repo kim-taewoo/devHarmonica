@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://acous:dn106204!@cluster0-duonz.gcp.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
